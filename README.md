@@ -3,7 +3,7 @@
 
 
 ## Deployed at:
-https://fsalviati.github.io/Gradient-Animation-Main_page/
+https://fsalviati.github.io/Gradient-Animation-Main-Page/
 <br />
 
 ## Screenshot
